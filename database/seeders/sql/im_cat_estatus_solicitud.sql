@@ -1,0 +1,12 @@
+insert into im_cat_estatus_solicitud values (10, 'Por enviar', false, default, null, CURRENT_TIMESTAMP, null);
+insert into im_cat_estatus_solicitud values (20, 'En revisión', false, default, null, CURRENT_TIMESTAMP, null);
+insert into im_cat_estatus_solicitud values (30, 'Pendiente', false, default, null, CURRENT_TIMESTAMP, null);
+insert into im_cat_estatus_solicitud values (40, 'Por validar', false, default, null, CURRENT_TIMESTAMP, null);
+insert into im_cat_estatus_solicitud values (50, 'Por autorizar', false, default, null, CURRENT_TIMESTAMP, null);
+insert into im_cat_estatus_solicitud values (100, 'Activo', false, default, null, CURRENT_TIMESTAMP, null);
+insert into im_cat_estatus_solicitud values (150, 'Inactivo', false, default, null, CURRENT_TIMESTAMP, null);
+insert into im_cat_estatus_solicitud values (200, 'Rechazada', false, default, null, CURRENT_TIMESTAMP, null);
+insert into im_cat_estatus_solicitud values (250, 'Por confirmar', false, default, null, CURRENT_TIMESTAMP, null);
+insert into im_cat_estatus_solicitud values (300, 'Por rechazar', false, default, null, CURRENT_TIMESTAMP, null);
+insert into im_cat_estatus_solicitud values (999, 'Cancelada', false, default, null, CURRENT_TIMESTAMP, null);
+insert into im_cat_estatus_solicitud values (1000, 'Verificado', false, default, null, CURRENT_TIMESTAMP, null);
